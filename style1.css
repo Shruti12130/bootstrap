@@ -1,0 +1,15 @@
+h2{
+border-bottom:2px solid blue;
+width:450px:
+border-right:2px solid green
+align:center;
+background-color: azure;
+color:gray;
+}
+.btn-primary{
+background-color: teal;
+}
+
+.btn-primary: hover{
+ background-color: black;
+}
